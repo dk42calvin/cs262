@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/calvin-cs262-fall2019-teamD/client.git
