@@ -1,0 +1,20 @@
+gameDatabase
+
+
+
+Player(ID, emailAddress, name)
+
+
+
+PlayerGame(gameId, playerID, score, cash, properties, houses, hotels, location)
+
+score = NULL if game not finished
+
+
+
+
+Game(ID, time, playerID,)
+
+
+
+
