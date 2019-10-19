@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">My Application</string>
-    <string name="button_text">Search Web</string>
-    <string name="input_hint">Get Source Code</string>
-    <string name="instructions">Enter website name</string>
-</resources>
